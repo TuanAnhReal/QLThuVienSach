@@ -1,0 +1,6 @@
+B1|Cửu Dương Thần Công|Độc Cô Cầu Bại|2020|500000|Công nghệ|3
+B2|Toán Cao Cấp|Thầy Châu|2018|250000|Giáo trình|5
+B3|Dữ Liệu Lớn|Steven|2022|700000|Công nghệ|2
+B4|Tiếng Anh Cơ Bản|William|2019|300000|Ngoại ngữ|4
+B5|Kinh Tế Học|Phạm Văn Đồng|2017|350000|Kinh tế|6
+B6|Thiết Kế Đồ Họa|Jack|2021|450000|Nghệ thuật|0

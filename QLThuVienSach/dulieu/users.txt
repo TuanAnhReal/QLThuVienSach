@@ -1,0 +1,4 @@
+KH111|Luu Huu Phuoc|B1||||False
+KH203|Tran Tuan Anh|B2|B6,B5|||False
+KH2040|Tang Quoc Cuong|B4,B6|B1|||False
+KH4779|Trần Tuấn Anh|B1||B1:09/05/2025|B1:03/04/2025|False
