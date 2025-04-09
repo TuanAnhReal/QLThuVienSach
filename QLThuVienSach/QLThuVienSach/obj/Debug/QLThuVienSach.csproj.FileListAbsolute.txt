@@ -1,0 +1,8 @@
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\obj\Debug\QLThuVienSach.csproj.AssemblyReference.cache
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\obj\Debug\QLThuVienSach.csproj.CoreCompileInputs.cache
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\bin\Debug\QLThuVienSach.exe.config
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\bin\Debug\QLThuVienSach.exe
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\bin\Debug\QLThuVienSach.pdb
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\obj\Debug\QLThuVienSach.exe
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\obj\Debug\QLThuVienSach.pdb
+G:\My Drive\OOP\BaiBaoCaoGiuaKi\QLThuVienSach\QLThuVienSach\obj\Debug\QLThuVienSach.csproj.SuggestedBindingRedirects.cache
